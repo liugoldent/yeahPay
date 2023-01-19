@@ -48,7 +48,7 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-        },
+        }
       }),
     ],
   ],
@@ -127,6 +127,15 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  plugins: [
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-6VQ3B3WX04',
+        anonymizeIP: true,
+      },
+    ],
+  ],
 };
 
 module.exports = config;
