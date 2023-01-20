@@ -67,7 +67,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: '折扣碼/業配 統整',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
