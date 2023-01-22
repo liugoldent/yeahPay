@@ -32,13 +32,13 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description="折扣碼連結"
     >
       <Link to="/docs/youtube">
         <div className={styles.header}>
           <img
             className={styles.header__img}
-            src="https://picsum.photos/2048/2048/?blur=5"
+            src="https://picsum.photos/2000/1600"
           />
           <p className={styles.header__text}>{`${siteConfig.title}`}</p>
         </div>
