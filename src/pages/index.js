@@ -43,9 +43,6 @@ export default function Home() {
           <p className={styles.header__text}>{`${siteConfig.title}`}</p>
         </div>
       </Link>
-      {/* <div>
-        <img src="https://picsum.photos/2048/2048" />
-      </div> */}
       {/* <HomepageHeader />
       <main>
         <HomepageFeatures />
