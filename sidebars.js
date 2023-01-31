@@ -26,6 +26,7 @@ const sidebars = {
       label: "1 月折扣碼/優惠碼統整",
       collapsed: false,
       items: [
+        "youtube/20230130",
         "youtube/20230129",
         "youtube/20230128",
         "youtube/20230127",
