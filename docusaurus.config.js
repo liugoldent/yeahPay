@@ -69,12 +69,12 @@ const config = {
             position: "left",
             label: "折扣碼/業配 統整",
           },
-          // {
-          //   type: "doc",
-          //   position: "left",
-          //   docId: "stock",
-          //   label: "Docs",
-          // },
+          {
+            type: "doc",
+            position: "left",
+            docId: "stock",
+            label: "股市爆料同樂會",
+          },
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',

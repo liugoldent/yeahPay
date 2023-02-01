@@ -26,6 +26,7 @@ const sidebars = {
       label: "1 月折扣碼/優惠碼統整",
       collapsed: false,
       items: [
+        "youtube/20230131",
         "youtube/20230130",
         "youtube/20230129",
         "youtube/20230128",
@@ -46,10 +47,10 @@ const sidebars = {
     "stock",
     {
       type: "category",
-      label: "1 月折扣碼/優惠碼統整",
+      label: "股市選股",
       collapsed: false,
       items: [
-        "stock/introduction",
+        "stock/20230131",
       ],
     }
   ],
